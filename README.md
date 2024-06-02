@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @duongkz365
 - 👀 I’m interested in pascal 
-- 🌱 I'm in grade 5
-- 💞️ Contact me at dinhky07@yahoo.com
+
